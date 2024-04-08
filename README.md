@@ -1,9 +1,11 @@
-
-![Cole's GitHub stats](https://github-readme-stats.vercel.app/api?username=cole-vita-unc&theme=gruvbox_light&show_icons=true&rank_icon=github)
+![Cole's GitHub stats](https://github-readme-stats.vercel.app/api?username=cole-vita-unc&theme=transparent&show_icons=true&rank_icon=github&hide=issues,contribs,prs&hide_border=true&h)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cole-vita-unc&theme=transparent&layout=compact&hide_progress=true&hide=Roff,Shell&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RayCarpenterIII&repo=Neuropixel-Analysis&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cole-vita-unc&repo=CheekyWebScraper&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **cole-vita-unc/cole-vita-unc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+&theme=gruvbox_light&show_icons=true&rank_icon=github
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
