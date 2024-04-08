@@ -1,6 +1,5 @@
-### Hi there 👋
 
-[![Cole's GitHub stats](https://github-readme-stats.vercel.app/api?username=cole-vita-unc)](https://github.com/anuraghazra/github-readme-stats)
+[![Cole's GitHub stats](https://github-readme-stats.vercel.app/api?username=cole-vita-unc)](https://github.com/anuraghazra/github-readme-stats&hide=stars,commits,issues,contribs&theme=gruvbox_light&hide_rank=true)
 
 
 
