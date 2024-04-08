@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Cole's GitHub stats](https://github-readme-stats.vercel.app/api?username=cole-vita-unc)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **cole-vita-unc/cole-vita-unc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
