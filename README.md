@@ -6,7 +6,6 @@
 
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RayCarpenterIII&repo=Neuropixel-Analysis&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cole-vita-unc&repo=CheekyWebScraper&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
 
