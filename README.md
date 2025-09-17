@@ -1,6 +1,8 @@
 <div align="center">
   
   ![Cole's GitHub stats](https://github-readme-stats-two-theta-78.vercel.app/api?username=cole-vita-unc&theme=transparent&show_icons=true&count_private=true&rank_icon=github&hide=stars,issues,commits&hide_border=true&hide_rank=true&show=prs_merged)
+
+  
   [![GitHub Streak](https://streak-stats.demolab.com?user=cole-vita-unc&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 <div align="center">
